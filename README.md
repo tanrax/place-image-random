@@ -1,5 +1,5 @@
-Download random images with no width limit or tokens.
-You have 1000 images with 1000px width.
+Download random images with no download limit or tokens.
+You have 1000 jpg images with 1000px width.
 
 The range is from **1 to 1000**. If I wanted the first one I would use `1.jpg`.
 
