@@ -12,7 +12,7 @@ https://cdn.jsdelivr.net/gh/tanrax/place-image-random/images/1.jpg
 Only Bash.
 
 ``` bash
-curl https://cdn.jsdelivr.net/gh/tanrax/place-image-random/images/$((1 + $RANDOM % 1000)).jpg -o random-image.jpg
+curl "https://cdn.jsdelivr.net/gh/tanrax/place-image-random/images/$((1 + $RANDOM % 1000)).jpg" -o random-image.jpg
 ```
 
 
